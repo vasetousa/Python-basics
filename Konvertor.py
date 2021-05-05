@@ -1,4 +1,4 @@
-a = float(input()) # real number for convertion
+a = float(input()) # real number for conversion
 b = (input())  # input measure unit
 c = (input())  # exit measure unit
 
