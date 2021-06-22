@@ -17,7 +17,7 @@ elif shape == "circle":
     area = r * r * math.pi  # also math.pow(r,2) or r ** 2
 
 
-elif shape == "triangle":
+elif shape == "triangle_print":
     a = float(input())
     h = float(input())
     area = a * h / 2
